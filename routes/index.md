@@ -5,66 +5,66 @@ title: Running Routes
 # Running Routes
 Below is a list of common Cross Country and Track long distance runs found [here](https://sites.google.com/a/pausd.org/gunn-cross-country/gunn-cc-run-routes):
 
-**[Bol Park](https://www.strava.com/routes/2631707): 1.5-2.0(depending which exit) miles
+<b>[Bol Park](https://www.strava.com/routes/2631707)</b>: 1.5-2.0(depending which exit) miles
 
-[VA - Bol loop](https://www.strava.com/routes/2636197): 2.8 miles
+<b>[VA - Bol loop](https://www.strava.com/routes/2636197)</b>: 2.8 miles
 
-[Mudrun](https://www.strava.com/routes/2631712): 3.1 miles
+<b>[Mudrun](https://www.strava.com/routes/2631712)</b>: 3.1 miles
 
-[Water Fountain](https://www.strava.com/routes/2631721): 3.3 miles
+<b>[Water Fountain](https://www.strava.com/routes/2631721)</b>: 3.3 miles
 
-[Manuela](https://www.strava.com/routes/2631721): 3.6 miles
+<b>[Manuela](https://www.strava.com/routes/2631721)</b>: 3.6 miles
 
-[Miranda](https://www.strava.com/routes/2631718): 4.1 miles
+<b>[Miranda](https://www.strava.com/routes/2631718)</b>: 4.1 miles
 
-[Shortened Frans](https://www.strava.com/routes/8879710): 5.1 miles
+<b>[Shortened Frans](https://www.strava.com/routes/8879710)</b>: 5.1 miles
 
-[Viscaino (via Manuella)](https://www.strava.com/routes/2631725): 5.2 miles
+<b>[Viscaino (via Manuella)](https://www.strava.com/routes/2631725)</b>: 5.2 miles
 
-[Viscaino (via Miranda)](https://www.strava.com/routes/2631730): 5.7 miles
+<b>[Viscaino (via Miranda)](https://www.strava.com/routes/2631730)</b>: 5.7 miles
 
-[Concepcion (via Manuela)](https://www.strava.com/routes/2631738): 5.7 miles
+<b>[Concepcion (via Manuela)](https://www.strava.com/routes/2631738)</b>: 5.7 miles
 
-[Spider Hill](https://www.strava.com/routes/2631760): 5.9 miles
+<b>[Spider Hill](https://www.strava.com/routes/2631760)</b>: 5.9 miles
 
-[Paloma (via Manuela)](https://www.strava.com/routes/2631746): 6.0 miles
+<b>[Paloma (via Manuela)](https://www.strava.com/routes/2631746)</b>: 6.0 miles
 
-[Frans](https://www.strava.com/routes/2631766): 6.0 miles
+<b>[Frans](https://www.strava.com/routes/2631766)</b>: 6.0 miles
 
-[Concepcion (via Miranda)](https://www.strava.com/routes/2631743): 6.2 miles
+<b>[Concepcion (via Miranda)](https://www.strava.com/routes/2631743)</b>: 6.2 miles
 
-[Paloma (via Miranda)](https://www.strava.com/routes/2631749): 6.5 miles
+<b>[Paloma (via Miranda)](https://www.strava.com/routes/2631749)</b>: 6.5 miles
 
-[Stanford Central](https://www.strava.com/routes/8879675): 6.7 miles
+<b>[Stanford Central](https://www.strava.com/routes/8879675)</b>: 6.7 miles
 
-[Robleda](https://www.strava.com/routes/2631768): 6.9 miles
+<b>[Robleda](https://www.strava.com/routes/2631768)</b>: 6.9 miles
 
-[Africa](https://www.strava.com/routes/2631773): 7.1 miles
+<b>[Africa](https://www.strava.com/routes/2631773)</b>: 7.1 miles
 
-[Lagunita](https://www.strava.com/routes/8878265): 7.4 miles
+<b>[Lagunita](https://www.strava.com/routes/8878265)</b>: 7.4 miles
 
-[Elena](https://www.strava.com/routes/2631776): 7.6 miles
+<b>[Elena](https://www.strava.com/routes/2631776)</b>: 7.6 miles
 
-[The Ghetto](https://www.strava.com/routes/7851923): 7.8 miles
+<b>[The Ghetto](https://www.strava.com/routes/7851923)</b>: 7.8 miles
 
-[Horror Hill (via Franz)](https://www.strava.com/routes/6552539): 7.9 miles
+<b>[Horror Hill (via Franz)](https://www.strava.com/routes/6552539)</b>: 7.9 miles
 
-[Wallace Stegner](https://www.strava.com/routes/2631787): 8.1 miles
+<b>[Wallace Stegner](https://www.strava.com/routes/2631787)</b>: 8.1 miles
 
-[Stanford Campus Loop](https://www.strava.com/routes/8879689): 8.2 miles
+<b>[Stanford Campus Loop](https://www.strava.com/routes/8879689)</b>: 8.2 miles
 
-[Taaffe](https://www.strava.com/routes/2631780): 9.0 miles
+<b>[Taaffe](https://www.strava.com/routes/2631780)</b>: 9.0 miles
 
-[The Dish](https://www.strava.com/routes/8879733): 9.3 miles
+<b>[The Dish](https://www.strava.com/routes/8879733)</b>: 9.3 miles
 
-[Black Mountain from Rhus Ridge](https://www.strava.com/routes/2631833): 9.7 miles
+<b>[Black Mountain from Rhus Ridge](https://www.strava.com/routes/2631833)</b>: 9.7 miles
 
-[Altamont](https://www.strava.com/routes/2631823): 10.2 miles
+<b>[Altamont](https://www.strava.com/routes/2631823)</b>: 10.2 miles
 
-[Moody](https://www.strava.com/routes/2631828): 10.8 miles
+<b>[Moody](https://www.strava.com/routes/2631828)</b>: 10.8 miles
 
-Stanford Shopping Center: 11.2 miles
+<b>Stanford Shopping Center</b>: 11.2 miles
 
-[The Great Frontier](https://www.strava.com/routes/7456376): 12.10 miles
+<b>[The Great Frontier](https://www.strava.com/routes/7456376)</b>: 12.10 miles
 
-[Stanford Shopping Center extended](https://www.strava.com/routes/15027301): 13.5 miles** *Note: distance on Strava is longer because it had to go the long way around some stuff.* 
+<b>[Stanford Shopping Center extended](https://www.strava.com/routes/15027301)</b>: 13.5 miles *Note: distance on Strava is longer because it had to go the long way around some stuff.*
