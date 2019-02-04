@@ -1,7 +1,7 @@
 ---
-layout: markdown
+layout: default
+title: Running Routes
 ---
-
 # Running Routes
 Below is a list of common Cross Country and Track long distance runs.
 
