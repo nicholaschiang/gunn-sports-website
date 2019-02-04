@@ -1,30 +1,9 @@
 ---
 layout: default
-title: Henry M. Gunn Track and Field
+title: Cross Country
 ---
-# Henry M. Gunn Track and Field
-Attention: We will have a practice track and field meet on Friday, February 22nd (Titan vs. Titan) Please, start thinking of 2 events for this exhibition.
-
-## Guidelines
-[Here](https://docs.google.com/document/d/1Rqyc4iRkLC0l9c7ZRAWiVWsyy0QSdClvjcTkfdklFHU/edit?usp=sharing) is a link to our guidelines. *Note:* practice is 20 minutes after the last academic bell! Meet at the Track.
-
-<div style="max-width: 900px" >
-<img src="http://nicholaschiang.github.io/gunn-sports-website/images/justin-on-track.jpg" alt="Justin Tse on the track..." style="max-width:100%">
-</div>
-
-***
-
-## Help Wanted
-If you enjoyed helping in the past or wish you had had a chance, it’s not too late!!!  We need 8 parents (or more) to help us out at the League Meet. All schools are assigned jobs. Specifically we need help at the finish line and with the girls long jump and triple jump.  We would like to let Coach Jordan actually coach instead of running those events.  Please let me know if you can help us out.
-
-## ADP Donations
-Thanks to those of you who have turned in your APD.  Please, send a check made out to Gunn hs memo cross country... or donate [online](http://gunnboosters.corecommerce.com/scholarship-additional-and-team-donations.html). The suggested amount is $200 but any amount is appreciated. This year the contributions have ranged from $10 to $1000.
-
-<div style="max-width: 900px" >
-<img src="http://nicholaschiang.github.io/gunn-sports-website/images/vascaino.jpg" alt="The infamous Vascaino hill workout..." style="max-width:100%">
-</div>
-
-***
+# Henry M. Gunn Cross Country
+**Cross Country Parent Night!** Tuesday August 28th 6:30pm - located a the Bow PE Classroom. We will discuss our team guidelines and the Titan schedule ( we our first competition on Thursday 8/30 @ 4pm). In addition to team talk, I have invited a rep from Fleet Feet to help with updating your shoes, a Physical Therapist from Agile PT, and a collage scout! Looking forward to meeting the parents of these amazing athletes!
 
 ### Athletic Registration
 All athletes must complete an online Athletic Registration Registration is available online here. If an athlete has already participated in a sport at Gunn this school year, then the athlete does not need to complete another registration.
@@ -48,6 +27,5 @@ When competing, athletes must wear school issued uniforms. Additional garments (
 ### Qualifying for Varsity
 To earn a varsity letter, an athlete must satisfy at least one of the following:
 - Compete varsity at the league champ meet or any post-season meet
-- Score at least 5 points in league dual meets
-- Compete in two invitationals
+- Place in the top 5 in varsity at least 2 league meets
 - Be a senior who has been on the team for at least 3 years
