@@ -27,7 +27,7 @@ Thanks to those of you who have turned in your APD.  Please, send a check made o
 ***
 
 ### Athletic Registration
-All athletes must complete an online Athletic Registration Registration is available online here. If an athlete has already participated in a sport at Gunn this school year, then the athlete does not need to complete another registration.
+All athletes must complete an online Athletic Registration Registration is available online [here](http://gunn.pausd.org/athletics/sports-news/athletics-registration). If an athlete has already participated in a sport at Gunn this school year, then the athlete does not need to complete another registration.
 
 ### Sports Fee
 We recommend a $200 athletic donation (payable to Gunn High School). This fee covers the expenses for transportation, meet entry fees, and other items in the athletic department budget.

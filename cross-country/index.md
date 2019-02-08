@@ -6,7 +6,7 @@ title: Cross Country
 **Cross Country Parent Night!** Tuesday August 28th 6:30pm - located a the Bow PE Classroom. We will discuss our team guidelines and the Titan schedule ( we our first competition on Thursday 8/30 @ 4pm). In addition to team talk, I have invited a rep from Fleet Feet to help with updating your shoes, a Physical Therapist from Agile PT, and a collage scout! Looking forward to meeting the parents of these amazing athletes!
 
 ### Athletic Registration
-All athletes must complete an online Athletic Registration Registration is available online here. If an athlete has already participated in a sport at Gunn this school year, then the athlete does not need to complete another registration.
+All athletes must complete an online Athletic Registration Registration is available online [here](http://gunn.pausd.org/athletics/sports-news/athletics-registration). If an athlete has already participated in a sport at Gunn this school year, then the athlete does not need to complete another registration.
 
 ### Sports Fee
 We recommend a $200 athletic donation (payable to Gunn High School). This fee covers the expenses for transportation, meet entry fees, and other items in the athletic department budget.
